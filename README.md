@@ -1,4 +1,4 @@
-# Phrmaceuticals Analysis using Matplotlib
+# Pharmaceuticals Analysis using Matplotlib
 
 ## Background
 
